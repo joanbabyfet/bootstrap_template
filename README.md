@@ -1,5 +1,5 @@
 ## About
-提供可快速启动一个bootstrap项目的官网构建
+提供可快速启动 bootstrap 项目的官网模板
 
 ## Requires
 bootstrap v5.0.0
